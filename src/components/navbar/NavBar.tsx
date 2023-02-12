@@ -15,7 +15,7 @@ const NavBar = () => {
     >
       <div className=" container-fluid" >
         <a className="navbar-brand" href="/">
-          <img src={logo} alt="logo" width={70} height={70} />
+          <img src={logo} alt="logo" width={80} height={80} />
         </a>
         
         <button
