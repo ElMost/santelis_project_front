@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <Container>
-      <h1>Bienvenue sur Santelis Project Front</h1>
+      <h1>Bienvenue sur Santelis</h1>
     </Container>
   );
 }
