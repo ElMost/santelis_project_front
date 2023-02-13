@@ -1,0 +1,8 @@
+.container {
+    margin: 0px auto 150px ;    
+}
+@media (min-width: 768px) {
+  .flex-md-row {
+    flex-direction: row;
+  }
+}
